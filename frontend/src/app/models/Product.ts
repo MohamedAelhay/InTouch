@@ -5,6 +5,7 @@ export interface Product {
   title: string;
   price: number;
   desc: string;
+  img: string;
   qty: number;
   totalRating: number,
   totalNumberOfRating: number,
